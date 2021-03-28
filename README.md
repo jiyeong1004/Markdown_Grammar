@@ -73,10 +73,36 @@ void main(void){
 
 [naver](https://www.naver.com)
 
-<참조를 이용한 링크>
+[링크 이름](링크 주소)
+
+
+#### <참조를 이용한 링크>
 
 [daum][daum-link]
 
+[링크 이름][참조 이름]
+
 [daum-link]: https://www.daum.net/
+
+[참조 이름]:링크 주소
+
+※ 여기서 주의할 점은 **]:** 여기 사이를 절대 띄우면 안 된다.
+
+
+### Images
+
+![logo](http://octodex.github.com/images/octdrey-catburn.jpg)
+
+![이미지 이름](이미지 주소)
+
+#### <참조를 이용한 이미지>
+
+![logo][2]
+
+![이미지 이름][참조 이름]
+
+[2]:http://octodex.github.com/images/octdrey-catburn.jpg
+
+[참조 이름]:이미지 주소(이미지 링크)
 
 ※ 여기서 주의할 점은 **]:** 여기 사이를 절대 띄우면 안 된다.
