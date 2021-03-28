@@ -2,12 +2,10 @@
 
 ## Hi
 
-### Markdown
+### Hello
 
 #### Ji-young Kim
 
 ##### Student
 
-###### 2021.03.28
-
-###### hello
+###### Markdown
