@@ -40,3 +40,30 @@ It is ~~cancelled~~
  2. 숫자 순서대로 "1. 2. 3." 되는것은 앞에 숫자가 관련이 없다.
  3. 예를 들어 "1. 1. 1." 을 해줘도
  125. "1. 2. 3." 으로 나온다.
+
+
+### CodeBlock
+
+```사용할 언어
+// 코드 작성
+```
+
+```java
+// Java
+
+public class Hello{
+ public static void main(String[] args){
+  System.out.println("Hello Java World!");  // Java 문법이라고 지정해서 색도 자동으로 입혀진다.
+ }
+}
+```
+
+```c
+// C
+
+#include<stdio.h>
+
+void main(void){
+  printf("Hello C Wolrd!");  // C 문법이라고 지정해서 색도 자동으로 입혀진다.
+}
+```
