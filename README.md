@@ -67,3 +67,16 @@ void main(void){
   printf("Hello C Wolrd!");  // C 문법이라고 지정해서 색도 자동으로 입혀진다.
 }
 ```
+
+
+### Link
+
+[naver](https://www.naver.com)
+
+<참조를 이용한 링크>
+
+[daum][daum-link]
+
+[daum-link]: https://www.daum.net/
+
+※ 여기서 주의할 점은 **]:** 여기 사이를 절대 띄우면 안 된다.
