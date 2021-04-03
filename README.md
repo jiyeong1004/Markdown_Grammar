@@ -92,11 +92,11 @@ void main(void){
 
 #### <참조를 이용한 링크>
 
-[daum][daum-link]
+[Support badge free icon][Support badge free icon-link]
 
 [링크 이름][참조 이름]
 
-[daum-link]: https://www.daum.net/
+[Support badge free icon-link]: https://simpleicons.org
 
 [참조 이름]:링크 주소
 
