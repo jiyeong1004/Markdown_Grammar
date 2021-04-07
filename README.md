@@ -16,11 +16,13 @@ H
 
 ### 강조문
 
-It is *italic*
+_italic_, *italic*
 
-It is **bold**
+__bold__, **bold**
 
-It is ***italic and bold***
+___italic and bold___, ***italic and bold***
+
+**blod and _italic_**
 
 It is ~~cancelled~~
 
