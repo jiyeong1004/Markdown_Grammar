@@ -1,3 +1,7 @@
+* source (출처)
+  * YouTube [Code with Joyce]
+  * Title : Markdown 문법 10분 뽀개기
+
 # H1
 
 ## H2
@@ -39,7 +43,7 @@ It is ~~cancelled~~
 ### List
 
 * List
-  * 1. 리스트
+  * 리스트
   * 안녕
 
 * 순서가 있는 것
