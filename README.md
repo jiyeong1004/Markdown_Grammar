@@ -40,7 +40,7 @@ It is ~~cancelled~~
 
 * List
   * 1. 리스트
-  * Title : Markdown 문법 10분 뽀개기
+  * 안녕
 
 * 순서가 있는 것
  1. tab 키 or Spacebar 두 번 누르면 됨
