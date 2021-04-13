@@ -2,6 +2,8 @@
 
 [Code with Joyce](https://www.youtube.com/channel/UCTpRsT-oLzS1rh8TeIw2I8w) - [Markdown 문법 10분 뽀개기](https://www.youtube.com/watch?v=eHUVvQ2AHh0)
 
+---
+
 # H1
 
 ## H2
