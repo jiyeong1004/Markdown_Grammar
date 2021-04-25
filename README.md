@@ -42,10 +42,6 @@ It is ~~cancelled~~
 
 ---
 
-```code```
-
----
-
 ### List
 
 * List
@@ -94,6 +90,10 @@ void main(void){
   printf("Hello C Wolrd!");  // C 문법이라고 지정해서 색도 자동으로 입혀진다.
 }
 ```
+
+---
+
+```code```
 
 ---
 
