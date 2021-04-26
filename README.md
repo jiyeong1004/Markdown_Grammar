@@ -93,7 +93,7 @@ void main(void){
 
 ---
 
-```code```
+`code`
 
 ---
 
